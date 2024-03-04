@@ -1,0 +1,10 @@
+[
+  {
+    "account_number": "987654321",
+    "balance": -500
+  },
+  {
+    "account_number": "111122223",
+    "balance": -1000
+  }
+]
